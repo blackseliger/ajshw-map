@@ -1,1 +1,1 @@
-# ajshw-set [![Build status](https://ci.appveyor.com/api/projects/status/8bhuemb361mie7c0?svg=true)](https://ci.appveyor.com/project/blackseliger/ajshw-set)
+# ajshw-map [![Build status](https://ci.appveyor.com/api/projects/status/n9rx0cpa6pupfhya?svg=true)](https://ci.appveyor.com/project/blackseliger/ajshw-map)
